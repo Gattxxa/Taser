@@ -1,0 +1,5 @@
+# venv & pyinstaller
+.venv/
+build/
+dist/
+*.spec
