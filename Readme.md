@@ -1,4 +1,4 @@
-# <img src="https://download.gattxxa.org/Taser/favicon.ico" align="top" style="width: 1.4em"> Taser.exe  
+# <img src="https://download.gattxxa.org/Taser/favicon.ico" align="top" width="48"> Taser.exe  
 **[PAYDAY: The Hesit](https://store.steampowered.com/app/24240/PAYDAY_The_Heist/), [PAYDAY 2](https://store.steampowered.com/app/218620/PAYDAY_2/) がアクティブウィンドウの際に他ウィンドウをスクロールさせないソフトウェア**  
 
 
